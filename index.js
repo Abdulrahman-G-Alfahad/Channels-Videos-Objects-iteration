@@ -1,3 +1,4 @@
+//Completed by Ibrahim AlIbrahim & Abdulrahman Alfahad
 const channels = [
   {
     name: "PowerfulJRE",
